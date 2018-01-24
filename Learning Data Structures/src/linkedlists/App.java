@@ -5,10 +5,10 @@ public class App {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Node nodeA = new Node(); 
-		nodeA.data = 4; 
+		nodeA.data = 5; 
 		
 		Node nodeB = new Node();
-		nodeB.data = 3; 
+		nodeB.data = 5; 
 		
 		Node nodeC = new Node();
 		nodeC.data = 7; 
